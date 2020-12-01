@@ -11,7 +11,7 @@ Please cite as
 El‐Shagi, M., Lindner, A., & Von Schweinitz, G. (2016). Real effective exchange rate misalignment in the euro area: A counterfactual analysis. Review of International Economics, 24(1), 37-66.
 
 In case of questions and errors, please write an email to
-gsz@iwh-halle.de
+gregorvon.schweinitz@iwh-halle.de
 
 #################################
 Code for running all estimations
